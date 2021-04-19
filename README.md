@@ -1,2 +1,3 @@
-# vim-ninja-responsive
+# Vim Ninja Responsive
+
 vim-ninja-responsive
