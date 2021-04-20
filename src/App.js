@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h1>Vim Ninja Responsive</h1>
+      <h1>Vim Ninja</h1>
     </div>
   );
 }
